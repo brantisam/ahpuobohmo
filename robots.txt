@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://ijeefohthu.get-the-solution.net/sitemap.xml
